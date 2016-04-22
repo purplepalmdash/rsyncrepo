@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # kernel.org supports rsync
-mirror="archive.kernel.org/centos"
+mirror="archive.kernel.org::centos-vault"
 # Local Repository Location
 repobase="/home/igw/img/Repo/CentOS7"
 
